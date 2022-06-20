@@ -1,3 +1,4 @@
+![Profile Banner dagove47](/Assets/dagove47_banner.svg "dagove47 profile banner")
 ### Hi there 👋
 
 <!--
