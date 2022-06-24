@@ -5,11 +5,11 @@
 <table border="0">
     <tr>
         <td>
-            ### About me
-            - 🔭 I'm currently working at Accenture as Front-End Developer
-            - 🌱 I’m currently learning data structures and algorithms
-            - 💬 I speak English, Spanish and German
-            - 📫 How to reach me: <a style="vertical-align:middle" href="https://www.linkedin.com/in/david-gomez-v/">![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
+            <h3 align='left'> About me</h3>
+            <p align='left'> 🔭 I'm currently working at Accenture as Front-End Developer.</p>
+            <p align='left'> 🌱 I’m currently learning data structures and algorithms.</p>
+            <p align='left'> 💬 I speak English, Spanish and German.</p>
+            <p align='left'> 📫 How to reach me: <a style="vertical-align:middle" href="https://www.linkedin.com/in/david-gomez-v/">![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a></p>
         </td>
     </tr>
 </table>
