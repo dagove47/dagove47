@@ -2,13 +2,25 @@
 
 ![Profile Banner dagove47](/Assets/dagove47_banner.svg "dagove47 profile banner")
 
-### About me
-- 🔭 I'm currently working at Accenture as Front-End Developer
-- 🌱 I’m currently learning data structures and algorithms
-- 💬 I speak English, Spanish and German
-- 📫 How to reach me: <a style="vertical-align:middle" href="https://www.linkedin.com/in/david-gomez-v/">![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
+<table border="0">
+    <tr>
+        <td>
+            ### About me
+            - 🔭 I'm currently working at Accenture as Front-End Developer
+            - 🌱 I’m currently learning data structures and algorithms
+            - 💬 I speak English, Spanish and German
+            - 📫 How to reach me: <a style="vertical-align:middle" href="https://www.linkedin.com/in/david-gomez-v/">![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
+        </td>
+    </tr>
+</table>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dagove47&layout=compact&theme=material-palenight" />
+<table border="0">
+    <tr>
+        <td>
+            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dagove47&layout=compact&theme=material-palenight" />
+        </td>
+    </tr>
+</table>
 
 <!--
 **dagove47/dagove47** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
