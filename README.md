@@ -7,7 +7,7 @@
         <td>
             <h3 align='left'> About me</h3>
             <p align='left'> 🔭 I'm currently working at Accenture as Front-End Developer.</p>
-            <p align='left'> 🌱 I’m currently learning data structures and algorithms.</p>
+            <p align='left'> 🌱 I’m currently learning data structures and algorithms in Java☕.</p>
             <p align='left'> 💬 I speak English, Spanish and German.</p>
             <p align='left'> 📫 How to reach me: &nbsp; <a href="https://www.linkedin.com/in/david-gomez-v/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/NZN06Jg.png" width="30" /></a></p>
         </td>
